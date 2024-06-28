@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AnimatedWeb/static/css/main.6127f1b9.css",
+    "main.js": "/AnimatedWeb/static/js/main.516523ea.js",
+    "static/media/javacourse.svg": "/AnimatedWeb/static/media/javacourse.1f92353de0c0e5bf5e2ceff812381c4d.svg",
+    "static/media/webdevelopment.jpg": "/AnimatedWeb/static/media/webdevelopment.a3f1aa2bf8dcfb491902.jpg",
+    "static/media/appdevelopment.png": "/AnimatedWeb/static/media/appdevelopment.3b3f701851c42684202c.png",
+    "static/media/Web.svg": "/AnimatedWeb/static/media/Web.97cc1f0318531023d7d529a97dcb3da6.svg",
+    "static/media/graphic.jpg": "/AnimatedWeb/static/media/graphic.697653abe529d053508f.jpg",
+    "static/media/About.png": "/AnimatedWeb/static/media/About.21527341161e645eac04.png",
+    "index.html": "/AnimatedWeb/index.html",
+    "main.6127f1b9.css.map": "/AnimatedWeb/static/css/main.6127f1b9.css.map",
+    "main.516523ea.js.map": "/AnimatedWeb/static/js/main.516523ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6127f1b9.css",
+    "static/js/main.516523ea.js"
+  ]
+}
